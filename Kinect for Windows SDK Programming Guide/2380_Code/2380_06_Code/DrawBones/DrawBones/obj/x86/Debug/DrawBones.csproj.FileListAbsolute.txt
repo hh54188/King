@@ -1,0 +1,13 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\06 Human SkeletonTracking\DrawBones\DrawBones\obj\x86\Debug\TrackingHand.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\06 Human SkeletonTracking\DrawBones\DrawBones\obj\x86\Debug\TrackingHand.pdb
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\bin\Debug\DrawBones.exe
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\bin\Debug\DrawBones.pdb
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\DrawBones_MarkupCompile.cache
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\DrawBones.g.resources
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\DrawBones.Properties.Resources.resources
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\DrawBones.csproj.GenerateResource.Cache
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\DrawBones.exe
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\DrawBones\DrawBones\obj\x86\Debug\DrawBones.pdb

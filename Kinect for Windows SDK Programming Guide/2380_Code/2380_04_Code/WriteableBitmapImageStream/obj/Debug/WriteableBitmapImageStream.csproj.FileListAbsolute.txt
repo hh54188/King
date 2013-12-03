@@ -1,0 +1,26 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\bin\Debug\WriteableBitmapImageStream.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\bin\Debug\WriteableBitmapImageStream.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\bin\Debug\WriteableBitmapImageStream.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\bin\Debug\WriteableBitmapImageStream.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\bin\Debug\WriteableBitmapImageStream.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\bin\Debug\WriteableBitmapImageStream.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\WriteableBitmapImageStream\obj\Debug\WriteableBitmapImageStream.csproj.GenerateResource.Cache

@@ -1,0 +1,49 @@
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.csprojResolveAssemblyReference.cache
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\MainWindow.baml
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\MainWindow.g.cs
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\App.g.cs
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle_MarkupCompile.cache
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.g.resources
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.Properties.Resources.resources
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.csproj.GenerateResource.Cache
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.exe
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.pdb
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.exe
+D:\Kinect\Demo\Chapter 05\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 First Draft\2380_05_1stDraft\Sample Code\Chapter05\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\bin\Debug\AdjustSensorAngle.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\AdjustSensorAngle\obj\x86\Debug\AdjustSensorAngle.csproj.GenerateResource.Cache

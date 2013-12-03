@@ -1,0 +1,13 @@
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MainWindow.baml
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\App.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectDemo_MarkupCompile.cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectDemo.g.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectDemo.Properties.Resources.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectDemo.csproj.GenerateResource.Cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\MultipleKinectDemo.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\MultipleKinectDemo.pdb
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\KinectStatusNotifier.dll
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectDemo.csprojResolveAssemblyReference.cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectDemo.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectDemo.pdb

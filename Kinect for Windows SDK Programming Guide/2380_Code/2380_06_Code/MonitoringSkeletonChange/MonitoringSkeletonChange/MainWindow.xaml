@@ -1,0 +1,36 @@
+﻿<Window x:Class="MonitoringSkeletonChange.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Monitoring Skeleton Change" Height="350" Width="525" ResizeMode="CanMinimize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+        <StackPanel Background="#F7F7F7" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" Orientation="Horizontal">
+            <Image Source="/KinectIcon.png" Width="32" Height="32" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5" />
+            <Label Foreground="#007ACC" FontSize="30" FontFamily="Segoe UI SemiBold" Content="Monitoring Skeleton Change" HorizontalAlignment="Left"  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"  VerticalAlignment="Top"  Margin="5,0"  />
+        </StackPanel>
+        <ListBox  Name="trackingIDListBox" VerticalAlignment="Top" Grid.Row="1"  Height="250" >
+            <ListBox.ItemTemplate>
+                <DataTemplate >
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Width="150">
+                            <TextBlock Text="Tracking ID" />
+                            <TextBlock Margin="5,0,0,0" Text="{Binding TrackingID}"  />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Width="150" HorizontalAlignment="Left">
+                            <TextBlock Text="Tracking Time" Margin="20,0,0,0" />
+                            <TextBlock Margin="5,0,0,0" Text="{Binding TrackedTime}" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Width="150" HorizontalAlignment="Left">
+                            <TextBlock Text="Tracked Joints" Margin="20,0,0,0" />
+                            <TextBlock Margin="5,0,0,0" Text="{Binding TotalTrackedJoints}" />
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>

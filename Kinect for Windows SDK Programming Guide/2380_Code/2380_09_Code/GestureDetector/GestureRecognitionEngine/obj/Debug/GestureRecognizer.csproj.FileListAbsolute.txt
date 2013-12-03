@@ -1,0 +1,13 @@
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\ClapingHands\GestureRecognitionEngine\bin\Debug\GestureRecognizer.dll
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\ClapingHands\GestureRecognitionEngine\bin\Debug\GestureRecognizer.pdb
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\ClapingHands\GestureRecognitionEngine\obj\Debug\GestureRecognizer.dll
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\ClapingHands\GestureRecognitionEngine\obj\Debug\GestureRecognizer.pdb
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\GestureDetector\GestureRecognitionEngine\bin\Debug\GestureRecognizer.dll
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\GestureDetector\GestureRecognitionEngine\bin\Debug\GestureRecognizer.pdb
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\GestureDetector\GestureRecognitionEngine\obj\Debug\GestureRecognizer.dll
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\GestureDetector\GestureRecognitionEngine\obj\Debug\GestureRecognizer.pdb
+D:\Book\Kinect\Book Demo\09 Building Gesture Controled Application\GestureDetector\GestureRecognitionEngine\obj\Debug\GestureRecognizer.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_09_Code\GestureDetector\GestureRecognitionEngine\obj\Debug\GestureRecognizer.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_09_Code\GestureDetector\GestureRecognitionEngine\bin\Debug\GestureRecognizer.dll
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_09_Code\GestureDetector\GestureRecognitionEngine\bin\Debug\GestureRecognizer.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_09_Code\GestureDetector\GestureRecognitionEngine\obj\Debug\GestureRecognizer.dll

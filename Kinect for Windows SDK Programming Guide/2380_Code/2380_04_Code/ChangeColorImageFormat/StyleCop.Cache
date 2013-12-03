@@ -1,0 +1,204 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="1965736652">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="Resources.Designer.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/25/2010 09:36:52</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>01/27/2012 04:02:53</timestamp>
+    <milliseconds>776</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/25/2010 09:36:52</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>01/27/2012 04:02:53</timestamp>
+    <milliseconds>765</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>33</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="SingleLineCommentsMustNotBeFollowedByBlankLine" ruleCheckId="SA1512">
+        <context>A single-line comment must not be followed by a blank line. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>31</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>43</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>24</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>25</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>26</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>27</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>28</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>31</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>35</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>36</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>38</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
+        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
+        <line>39</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.SpacingRules" rule="ClosingParenthesisMustBeSpacedCorrectly" ruleCheckId="SA1009">
+        <context>Invalid spacing around the closing parenthesis.</context>
+        <line>41</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="App.xaml.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/25/2010 09:36:52</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>01/27/2012 04:02:53</timestamp>
+    <milliseconds>803</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>2</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>3</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>4</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>5</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBePlacedWithinNamespace" ruleCheckId="SA1200">
+        <context>All using directives must be placed inside of the namespace.</context>
+        <line>6</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="Settings.Designer.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/25/2010 09:36:52</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>01/27/2012 04:02:53</timestamp>
+    <milliseconds>783</milliseconds>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MainWindow.xaml.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>06/25/2010 09:36:52</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>02/12/2012 16:09:12</timestamp>
+    <milliseconds>395</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustShowCopyright" ruleCheckId="SA1634">
+        <context>The file header must contain a copyright tag.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBeOrderedAlphabeticallyByNamespace" ruleCheckId="SA1210">
+        <context>Using directives must be sorted alphabetically by the namespaces.</context>
+        <line>10</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBeOrderedAlphabeticallyByNamespace" ruleCheckId="SA1210">
+        <context>Using directives must be sorted alphabetically by the namespaces.</context>
+        <line>11</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="UsingDirectivesMustBeOrderedAlphabeticallyByNamespace" ruleCheckId="SA1210">
+        <context>Using directives must be sorted alphabetically by the namespaces.</context>
+        <line>12</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="SystemUsingDirectivesMustBePlacedBeforeOtherUsingDirectives" ruleCheckId="SA1208">
+        <context>System using directives must be placed before all other using directives.</context>
+        <line>14</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="CodeMustNotContainMultipleBlankLinesInARow" ruleCheckId="SA1507">
+        <context>The code must not contain multiple blank lines in a row.</context>
+        <line>151</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>152</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

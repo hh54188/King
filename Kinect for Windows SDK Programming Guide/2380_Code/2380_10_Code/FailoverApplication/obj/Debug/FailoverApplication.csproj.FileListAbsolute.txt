@@ -1,0 +1,38 @@
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\bin\Debug\FailoverApplication.exe.config
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\bin\Debug\FailoverApplication.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\bin\Debug\FailoverApplication.pdb
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\MainWindow.baml
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\MainWindow.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\App.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication_MarkupCompile.cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.g.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.Properties.Resources.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.csproj.GenerateResource.Cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\bin\Debug\FailoverApplication.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\bin\Debug\FailoverApplication.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\bin\Debug\FailoverApplication.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\FailoverApplication\obj\Debug\FailoverApplication.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\bin\Debug\FailoverApplication.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\FailoverApplication.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\FailoverApplication.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\bin\Debug\FailoverApplication.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\bin\Debug\FailoverApplication.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\FailoverApplication.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\FailoverApplication_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\FailoverApplication.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\FailoverApplication.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\FailoverApplication\obj\Debug\FailoverApplication.csproj.GenerateResource.Cache

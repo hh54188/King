@@ -1,0 +1,25 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\bin\Debug\CameraSettings.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\bin\Debug\CameraSettings.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\Settings\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\bin\Debug\CameraSettings.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\bin\Debug\CameraSettings.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\Kinect Camera Effects\CameraSettings\CameraSettings\obj\x86\Debug\CameraSettings.csproj.GenerateResource.Cache

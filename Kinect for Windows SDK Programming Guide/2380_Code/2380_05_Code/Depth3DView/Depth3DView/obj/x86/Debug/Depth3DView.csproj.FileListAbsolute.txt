@@ -1,0 +1,35 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\bin\Debug\Depth3DView.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\bin\Debug\Depth3DView.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\Depth3DView_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\Depth3DView.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\Depth3DView.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\Depth3DView.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\Depth3DView.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\Depth3DView.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\bin\Debug\Depth3DView.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\bin\Debug\Depth3DView.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\bin\Debug\Depth3DView.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\bin\Debug\Depth3DView.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\Depth3DView\Depth3DView\obj\x86\Debug\Depth3DView.csproj.GenerateResource.Cache

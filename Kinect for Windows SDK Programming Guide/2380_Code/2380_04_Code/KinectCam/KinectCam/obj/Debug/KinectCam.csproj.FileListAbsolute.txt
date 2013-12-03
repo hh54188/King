@@ -1,0 +1,53 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectCam.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectStatusNotifier.dll
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectStatusNotifier.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam_MarkupCompile.lref
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_04_Second Draft\2380_04_Final\Sample Code\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectCam.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_04_Second Draft\2380_04_Final\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_04_Second Draft\2380_04_Final\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam_MarkupCompile.lref
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\bin\Debug\kinect.ico
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectCam.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectStatusNotifier.dll
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\bin\Debug\KinectStatusNotifier.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\KinectCam\KinectCam\obj\Debug\KinectCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\bin\Debug\KinectCam.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\bin\Debug\KinectCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\bin\Debug\KinectCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\bin\Debug\KinectStatusNotifier.dll
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\KinectCam_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\KinectCam_MarkupCompile.lref
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\KinectCam.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\KinectCam.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\KinectCam.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\KinectCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_04_Code\KinectCam\KinectCam\obj\Debug\KinectCam.pdb

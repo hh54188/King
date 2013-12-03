@@ -1,0 +1,61 @@
+<stylecopresultscache>
+  <version>11</version>
+  <sourcecode name="ManWindowViewModel.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/21/2012 14:35:02</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>09/14/2012 01:26:28</timestamp>
+    <milliseconds>937</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderFileNameDocumentationMustMatchFileName" ruleCheckId="SA1638">
+        <context>The file attribute in the file header's copyright tag must contain the name of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <sourcecode name="ColorImageWrapper.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/21/2012 14:35:02</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>09/14/2012 01:27:34</timestamp>
+    <milliseconds>869</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+  <project key="-2065633102">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="MainWindow.xaml.cs" parser="StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>03/21/2012 14:35:02</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>09/14/2012 01:39:49</timestamp>
+    <milliseconds>539</milliseconds>
+    <violations>
+      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="FileHeaderMustHaveValidCompanyText" ruleCheckId="SA1640">
+        <context>The copyright tag in the file header must contain a company attribute which contains the name of the company.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.NamingRules" rule="ElementMustBeginWithUpperCaseLetter" ruleCheckId="SA1300">
+        <context>method names begin with an upper-case letter: sensor_ColorFrameReady.</context>
+        <line>160</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

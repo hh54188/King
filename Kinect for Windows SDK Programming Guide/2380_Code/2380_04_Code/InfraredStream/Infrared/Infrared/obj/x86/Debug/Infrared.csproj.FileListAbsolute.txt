@@ -1,0 +1,11 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\bin\Debug\Infrared.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\bin\Debug\Infrared.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\Infrared_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\Infrared.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\Infrared.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\Infrared.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\Infrared.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_04_FinalDraft\Sample Code\Chapter 04\Others\InfraredStream\Infrared\Infrared\obj\x86\Debug\Infrared.pdb

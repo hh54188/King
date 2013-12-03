@@ -1,0 +1,11 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\ViewSkeleton_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\ViewSkeleton.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\ViewSkeleton.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\ViewSkeleton.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\bin\Debug\ViewSkeleton.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\bin\Debug\ViewSkeleton.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\ViewSkeleton.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\ViewSkeleton\ViewSkeleton\obj\x86\Debug\ViewSkeleton.pdb

@@ -1,0 +1,6 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 03\Kinect Status Notifier\KinectStatusNotifier\KinectStatusNotifier\bin\Debug\KinectStatusNotifier.dll
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 03\Kinect Status Notifier\KinectStatusNotifier\KinectStatusNotifier\bin\Debug\KinectStatusNotifier.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 03\Kinect Status Notifier\KinectStatusNotifier\KinectStatusNotifier\obj\Debug\KinectStatusNotifier.dll
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 03\Kinect Status Notifier\KinectStatusNotifier\KinectStatusNotifier\obj\Debug\KinectStatusNotifier.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 03\Kinect Status Notifier\KinectStatusNotifier\KinectStatusNotifier\bin\Debug\kinect.ico
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\Sample\Chapter 03\Kinect Status Notifier\KinectStatusNotifier\KinectStatusNotifier\obj\Debug\StatusNotifier.csprojResolveAssemblyReference.cache

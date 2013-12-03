@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="GesturedEnabledKinectCam.HandCursor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="32" d:DesignWidth="32">
+    <Grid>
+        <Ellipse Height="32" Width="32" Name="hand">
+            <Ellipse.Fill>
+                <ImageBrush ImageSource="/GesturedEnabledKinectCam;component/myhand.png" />
+            </Ellipse.Fill>
+        </Ellipse>
+    </Grid>
+</UserControl>

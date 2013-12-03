@@ -1,0 +1,11 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\bin\Debug\PointCloud.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\bin\Debug\PointCloud.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\PointCloud_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\PointCloud.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\PointCloud.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\PointCloud.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\PointCloud.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\PointCloud\PointCloud\obj\x86\Debug\PointCloud.pdb

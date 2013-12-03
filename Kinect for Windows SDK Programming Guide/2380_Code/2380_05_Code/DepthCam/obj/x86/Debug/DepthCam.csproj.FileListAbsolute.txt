@@ -1,0 +1,39 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\bin\Debug\Chapter06.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\bin\Debug\Chapter06.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\bin\Debug\Chapter06.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\Chapter06_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\Chapter06.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\CaptureDepthData.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\DepthCam.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\Chapter06.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\CaptureDepthData\obj\x86\Debug\Chapter06.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\bin\Debug\DepthCam.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\bin\Debug\DepthCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\bin\Debug\DepthCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\DepthCam_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\DepthCam.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\DepthCam.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\DepthCam.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\DepthCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\Chapter 05\DepthCam\obj\x86\Debug\DepthCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\DepthCam\bin\Debug\DepthCam.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\DepthCam\obj\x86\Debug\DepthCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_05_SecondDraft\2380_05_FinalDraft\Sample Code\DepthCam\obj\x86\Debug\DepthCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\bin\Debug\DepthCam.exe.config
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\DepthCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\DepthCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\bin\Debug\DepthCam.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\bin\Debug\DepthCam.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\DepthCam_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\DepthCam.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\DepthCam.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_05_Code\DepthCam\obj\x86\Debug\DepthCam.csproj.GenerateResource.Cache

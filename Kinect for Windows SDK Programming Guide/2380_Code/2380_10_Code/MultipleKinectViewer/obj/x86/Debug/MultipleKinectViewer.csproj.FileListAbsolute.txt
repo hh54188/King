@@ -1,0 +1,29 @@
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\MultipleKinectViewer.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\MultipleKinectViewer.pdb
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\KinectStatusNotifier.dll
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MainWindow.baml
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\App.g.cs
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer_MarkupCompile.cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.g.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.Properties.Resources.resources
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.csproj.GenerateResource.Cache
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.exe
+D:\Kinect\Demo\Chapter 012\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\MultipleKinectViewer.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\MultipleKinectViewer.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\bin\Debug\KinectStatusNotifier.dll
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft\2380_11_FinalDraft\Chapter 11 - Demo\MultipleKinectDemo\obj\x86\Debug\MultipleKinectViewer.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\MultipleKinectViewer\obj\x86\Debug\MultipleKinectViewer.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\PreFinal\Chapters\2380_Code\2380_10_Code\MultipleKinectViewer\obj\x86\Debug\MultipleKinectViewer.pdb

@@ -1,0 +1,21 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="2027327660">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="GestureRecognitionEngine.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>10/29/2009 08:55:06</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>11/16/2012 10:09:37</timestamp>
+    <milliseconds>170</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>

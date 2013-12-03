@@ -1,0 +1,28 @@
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\TrackingHand_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\TrackingHand.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\TrackingHand.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\TrackingHand.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\bin\Debug\TrackingHand.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\bin\Debug\TrackingHand.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\TrackingHand.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\TrackingHand.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\TrakingHand\TrakingHand\obj\x86\Debug\TrackingHand.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\bin\Debug\TrackingHand.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\bin\Debug\TrackingHand.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\TrackingHand.csprojResolveAssemblyReference.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\MainWindow.baml
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\MainWindow.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\App.g.cs
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\TrackingHand_MarkupCompile.cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\TrackingHand.g.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\TrackingHand.Properties.Resources.resources
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\TrackingHand.csproj.GenerateResource.Cache
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\TrackingHand.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrckingHand\TrackingHand\obj\x86\Debug\TrackingHand.pdb
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrackingHand\TrackingHand\obj\x86\Debug\TrackingHand.exe
+D:\Book\Kinect\Kinect for Windows SDK Programming Guide\2380 Final Draft WIP\2380_06_Second Draft\2380_06_FinalDraft\Demo\06 Human SkeletonTracking\TrackingHand\TrackingHand\obj\x86\Debug\TrackingHand.pdb
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\TrackingHand\TrackingHand\obj\x86\Debug\TrackingHand.exe
+D:\Book\Kinect\Book Demo\06 Human Skeleton Tracking\TrackingHand\TrackingHand\obj\x86\Debug\TrackingHand.pdb

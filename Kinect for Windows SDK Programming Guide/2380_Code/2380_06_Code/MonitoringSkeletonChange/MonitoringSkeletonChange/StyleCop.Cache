@@ -1,0 +1,61 @@
+<stylecopresultscache>
+  <version>10</version>
+  <project key="-1233351514">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="MainWindow.xaml.cs" parser="Microsoft.StyleCop.CSharp.CsParser">
+    <settings>
+      <timestamp>10/29/2009 08:55:06</timestamp>
+      <milliseconds>0</milliseconds>
+    </settings>
+    <timestamp>11/13/2012 10:09:02</timestamp>
+    <milliseconds>875</milliseconds>
+    <violations>
+      <violation namespace="Microsoft.StyleCop.CSharp.DocumentationRules" rule="FileMustHaveHeader" ruleCheckId="SA1633">
+        <context>The file has no header, the header Xml is invalid, or the header is not located at the top of the file.</context>
+        <line>1</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
+        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
+        <line>62</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketsMustNotBePrecededByBlankLine" ruleCheckId="SA1508">
+        <context>A closing curly bracket must not be preceded by a blank line.</context>
+        <line>104</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.OrderingRules" rule="ElementsMustBeOrderedByAccess" ruleCheckId="SA1202">
+        <context>All private fields must be placed after all public fields.</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="FieldsMustBePrivate" ruleCheckId="SA1401">
+        <context>Fields must be declared with private access. Use properties to expose fields.</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="AccessibleFieldsMustBeginWithUpperCaseLetter" ruleCheckId="SA1307">
+        <context>Public and internal fields must start with an upper-case letter: currentSkeletonID.</context>
+        <line>29</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="AccessModifierMustBeDeclared" ruleCheckId="SA1400">
+        <context>The field must have an access modifier.</context>
+        <line>34</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.MaintainabilityRules" rule="AccessModifierMustBeDeclared" ruleCheckId="SA1400">
+        <context>The method must have an access modifier.</context>
+        <line>78</line>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="Microsoft.StyleCop.CSharp.NamingRules" rule="ElementMustBeginWithUpperCaseLetter" ruleCheckId="SA1300">
+        <context>method names begin with an upper-case letter: sensor_SkeletonFrameReady.</context>
+        <line>78</line>
+        <warning>False</warning>
+      </violation>
+    </violations>
+  </sourcecode>
+</stylecopresultscache>
