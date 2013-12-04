@@ -20,7 +20,8 @@ public class MainWindowViewModel : INotifyPropertyChanged
     public void OnNotifyPropertyChange(string propertyName)
     {
         if (this.PropertyChanged != null)
-        {
+        {   
+            // 相当于Javascript中的 fn.call / fn.apply
             this.PropertyChanged.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }

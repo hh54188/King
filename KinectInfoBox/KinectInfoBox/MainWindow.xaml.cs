@@ -38,8 +38,11 @@ namespace KinectInfoBox
             // 分别打开与关闭Kinect
             this.Loaded += this.MainWindow_Loaded;
             this.Closing += this.MainWinow_Closed;
+
+            // 绑定数据
             this.viewModel = new MainWindowViewModel();
-            // DataContext参数是干什么用的？
+            this.viewModel.CanStart = false;
+            this.viewModel.CanStop = false;
             this.DataContext = this.viewModel;
 
             // 绑定点击事件
