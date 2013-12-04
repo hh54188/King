@@ -1,19 +1,21 @@
-﻿using System;
+﻿
+using System.ComponentModel;
 /* 
  * 需要使用继承，继承自INotifyPropertyChanged
  * 才能调用PropertyChanged方法
-*/ 
-public class MainWindowViewModel:INotifyPropertyChanged
+*/
+public class MainWindowViewModel : INotifyPropertyChanged
 {
     private string sensorStatusValue;
     private string connectionIDValue;
     private string deviceIdValue;
-    private string isColorStreamEnabledValue;
-    private string isDepthStreamEnabledValue;
-    private string isSkeletonStreamEnabledValue;
-    private string sensorAngleValue;
-    private string canStartValue;
-    private string canStopValue;
+    private bool isColorStreamEnabledValue;
+    private bool isDepthStreamEnabledValue;
+    private bool isSkeletonStreamEnabledValue;
+    private int sensorAngleValue;
+    private bool canStartValue;
+    private bool canStopValue;
+    public event PropertyChangedEventHandler PropertyChanged;
 
     public void OnNotifyPropertyChange(string propertyName)
     {

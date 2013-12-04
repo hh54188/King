@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.ComponentModel;
 
 namespace KinectInfoBox
 {
@@ -20,12 +21,40 @@ namespace KinectInfoBox
     /// </summary>
     public partial class MainWindow : Window
     {
+        private MainWindowViewModel viewModel;
         private KinectSensor sensor;
+        private void SetKinectInfo()
+        {
+            if (this.sensor != null)
+            {
+                this.viewModel.ConnectionID = this.sensor.DeviceConnectionId;
+            }
+        }
         public MainWindow()
         {
             InitializeComponent();
-        }
+            // 绑定窗口级别事件，
+            // 在打开窗口与关闭窗口时
+            // 分别打开与关闭Kinect
+            this.Loaded += this.MainWindow_Loaded;
+            this.Closing += this.MainWinow_Closed;
+            this.viewModel = new MainWindowViewModel();
+            // DataContext参数是干什么用的？
+            this.DataContext = this.viewModel;
 
+            // 绑定点击事件
+            this.BUTTON_SENSOR_CLOSE.Click += BUTTON_SENSOR_CLOSE_Click;
+            this.BUTTON_SENSOR_START.Click += BUTTON_SENSOR_START_Click;
+        }
+        // 按钮点击事件
+        private void BUTTON_SENSOR_CLOSE_Click(object sender, RoutedEventArgs e)
+        {
+            this.StopSensor();
+        }
+        private void BUTTON_SENSOR_START_Click(object sender, RoutedEventArgs e)
+        {
+            this.StartSensor();
+        }
         private void StartSensor() 
         {
             if (this.sensor != null && !this.sensor.IsRunning) 
@@ -41,7 +70,14 @@ namespace KinectInfoBox
                 this.sensor.Stop();
             }
         }
-
+        protected void MainWinow_Closed(object sender, CancelEventArgs e)
+        {
+            if (this.sensor != null && this.sensor.IsRunning)
+            {
+                this.StopSensor();
+            }
+            
+        }
         protected void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
             if (KinectSensor.KinectSensors.Count > 0)
