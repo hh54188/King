@@ -28,6 +28,12 @@ namespace KinectInfoBox
             if (this.sensor != null)
             {
                 this.viewModel.ConnectionID = this.sensor.DeviceConnectionId;
+                this.viewModel.DeviceID = this.sensor.UniqueKinectId;
+                this.viewModel.SensorStatus = this.sensor.Status.ToString();
+                this.viewModel.IsColorStreamEnabled = this.sensor.ColorStream.IsEnabled;
+                this.viewModel.IsDepthStreamEnabled = this.sensor.DepthStream.IsEnabled;
+                this.viewModel.IsSkeletonStreamEnabled = this.sensor.SkeletonStream.IsEnabled;
+                this.viewModel.SensorAngle = this.sensor.ElevationAngle;
             }
         }
         public MainWindow()
@@ -40,6 +46,7 @@ namespace KinectInfoBox
             this.Closing += this.MainWinow_Closed;
 
             // 绑定数据
+          
             this.viewModel = new MainWindowViewModel();
             this.viewModel.CanStart = false;
             this.viewModel.CanStop = false;
@@ -84,18 +91,37 @@ namespace KinectInfoBox
         protected void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
             if (KinectSensor.KinectSensors.Count > 0)
-            {
+            {   
+                // 如果连接了多个Kinect的话
                 this.sensor = KinectSensor.KinectSensors[0];
                 this.StartSensor();
+
                 this.sensor.ColorStream.Enable();
                 this.sensor.DepthStream.Enable();
                 this.sensor.SkeletonStream.Enable();
+
+                // 监听Sensor状态
+                // 如果状态改变，则更新视图
+                KinectSensor.KinectSensors.StatusChanged += KinectSensors_StatusChanged;
+
+                this.SetKinectInfo();
             }
             else 
             {
                 MessageBox.Show("No device is connected with system");
                 this.Close();
             }
+        }
+
+        void KinectSensors_StatusChanged(object sender, StatusChangedEventArgs e)
+        {   
+            // 更改当前sensor状态，更新实例属性
+            // 实例时也会触发OnNotifyPropertyChange事件
+            // 再回过头来触发视图的更改
+
+            // 可不可以在这里直接更改视图？
+            // 一定要确保实例更新之后才更新model层？
+            this.viewModel.SensorStatus = e.Status.ToString();
         }
     }
 }

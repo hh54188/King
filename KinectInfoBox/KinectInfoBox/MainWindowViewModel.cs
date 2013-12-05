@@ -36,6 +36,7 @@ public class MainWindowViewModel : INotifyPropertyChanged
             if (this.connectionIDValue != value)
             {
                 this.connectionIDValue = value;
+                // 如果属性有改变，则通知视图更新
                 this.OnNotifyPropertyChange("ConnectionID");
             }
         }
