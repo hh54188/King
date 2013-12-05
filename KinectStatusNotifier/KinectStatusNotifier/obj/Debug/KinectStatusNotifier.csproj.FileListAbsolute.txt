@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\Kinect\KinectStatusNotifier\KinectStatusNotifier\bin\Debug\KinectStatusNotifier.dll
+C:\Users\Dell\Desktop\Kinect\KinectStatusNotifier\KinectStatusNotifier\bin\Debug\KinectStatusNotifier.pdb
+C:\Users\Dell\Desktop\Kinect\KinectStatusNotifier\KinectStatusNotifier\obj\Debug\KinectStatusNotifier.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Kinect\KinectStatusNotifier\KinectStatusNotifier\obj\Debug\KinectStatusNotifier.dll
+C:\Users\Dell\Desktop\Kinect\KinectStatusNotifier\KinectStatusNotifier\obj\Debug\KinectStatusNotifier.pdb

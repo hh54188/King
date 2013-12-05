@@ -10,3 +10,5 @@ C:\Users\Dell\Desktop\Kinect\KinectInfoBox\KinectInfoBox\bin\Debug\KinectInfoBox
 C:\Users\Dell\Desktop\Kinect\KinectInfoBox\KinectInfoBox\bin\Debug\KinectInfoBox.pdb
 C:\Users\Dell\Desktop\Kinect\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.exe
 C:\Users\Dell\Desktop\Kinect\KinectInfoBox\KinectInfoBox\obj\Debug\KinectInfoBox.pdb
+C:\Users\Dell\Desktop\Kinect\KinectInfoBox\KinectInfoBox\bin\Debug\KinectStatusNotifier.dll
+C:\Users\Dell\Desktop\Kinect\KinectInfoBox\KinectInfoBox\bin\Debug\KinectStatusNotifier.pdb

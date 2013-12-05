@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.ComponentModel;
+using KinectStatusNotifier;
 
 namespace KinectInfoBox
 {
@@ -23,6 +24,7 @@ namespace KinectInfoBox
     {
         private MainWindowViewModel viewModel;
         private KinectSensor sensor;
+        private StatusNotifier notifier = new StatusNotifier();
         private void SetKinectInfo()
         {
             if (this.sensor != null)
@@ -95,7 +97,8 @@ namespace KinectInfoBox
         protected void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
             if (KinectSensor.KinectSensors.Count > 0)
-            {   
+            {
+
                 // 如果连接了多个Kinect的话
                 this.sensor = KinectSensor.KinectSensors[0];
                 this.StartSensor();
@@ -126,6 +129,17 @@ namespace KinectInfoBox
             // 可不可以在这里直接更改视图？
             // 一定要确保实例更新之后才更新model层？
             this.viewModel.SensorStatus = e.Status.ToString();
+
+            // 可以根据状态提示用户信息
+            switch (e.Status)
+            {
+                case KinectStatus.Connected:
+                    // Device Connected;
+                    break;
+                case KinectStatus.Disconnected:
+                    // Device DisConnected;
+                    break;
+            }
         }
     }
 }
