@@ -70,6 +70,8 @@ namespace KinectInfoBox
             if (this.sensor != null && !this.sensor.IsRunning) 
             {
                 this.sensor.Start();
+                this.viewModel.CanStart = false;
+                this.viewModel.CanStop = true;
             }
         }
 
@@ -78,6 +80,8 @@ namespace KinectInfoBox
             if (this.sensor != null && this.sensor.IsRunning)
             {
                 this.sensor.Stop();
+                this.viewModel.CanStart = true;
+                this.viewModel.CanStop = false;
             }
         }
         protected void MainWinow_Closed(object sender, CancelEventArgs e)
