@@ -98,6 +98,8 @@ namespace KinectInfoBox
         {
             if (KinectSensor.KinectSensors.Count > 0)
             {
+                this.notifier.Sensors = KinectSensor.KinectSensors;
+                this.notifier.AutoNotification = true;
 
                 // 如果连接了多个Kinect的话
                 this.sensor = KinectSensor.KinectSensors[0];
