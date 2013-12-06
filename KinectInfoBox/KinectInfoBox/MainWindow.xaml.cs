@@ -41,6 +41,11 @@ namespace KinectInfoBox
         public MainWindow()
         {
             InitializeComponent();
+
+            // 监听Sensor状态
+            // 如果状态改变，则更新视图
+            // 我确定一定以及肯定，sdk1.8的statusChanged事件是有问题的！！
+            KinectSensor.KinectSensors.StatusChanged += KinectSensors_StatusChanged;
             
             // 绑定窗口级别事件，
             // 在打开窗口与关闭窗口时
@@ -99,10 +104,6 @@ namespace KinectInfoBox
         {
             if (KinectSensor.KinectSensors.Count > 0)
             {
-                // 监听Sensor状态
-                // 如果状态改变，则更新视图
-                //KinectSensor.KinectSensors.StatusChanged += KinectSensors_StatusChanged;
-
                 this.notifier.Sensors = KinectSensor.KinectSensors;
                 this.notifier.AutoNotification = true;
 
@@ -131,12 +132,12 @@ namespace KinectInfoBox
 
             // 可不可以在这里直接更改视图？
             // 一定要确保实例更新之后才更新model层？
-            this.viewModel.SensorStatus = e.Status.ToString();
-            KinectSensor.KinectSensors.StatusChanged += KinectSensors_StatusChanged;
+            // this.viewModel.SensorStatus = e.Status.ToString();
+            this.viewModel.SensorStatus = e.Sensor.Status.ToString();
             
 
             // 可以根据状态提示用户信息
-            switch (e.Status)
+            switch (e.Sensor.Status)
             {
                 case KinectStatus.Connected:
                     MessageBox.Show("CONNECTED");

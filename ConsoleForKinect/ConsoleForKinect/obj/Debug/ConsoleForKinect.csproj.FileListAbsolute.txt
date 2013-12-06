@@ -1,0 +1,4 @@
+C:\Users\Dell\Desktop\Kinect\ConsoleForKinect\ConsoleForKinect\bin\Debug\ConsoleForKinect.exe
+C:\Users\Dell\Desktop\Kinect\ConsoleForKinect\ConsoleForKinect\bin\Debug\ConsoleForKinect.pdb
+C:\Users\Dell\Desktop\Kinect\ConsoleForKinect\ConsoleForKinect\obj\Debug\ConsoleForKinect.exe
+C:\Users\Dell\Desktop\Kinect\ConsoleForKinect\ConsoleForKinect\obj\Debug\ConsoleForKinect.pdb
