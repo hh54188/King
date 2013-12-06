@@ -67,7 +67,7 @@ namespace KinectInfoBox
         {
             this.StartSensor();
         }
-        private void StartSensor() 
+        private void StartSensor()  
         {
             if (this.sensor != null && !this.sensor.IsRunning) 
             {
@@ -140,6 +140,8 @@ namespace KinectInfoBox
                     break;
                 case KinectStatus.Disconnected:
                     // Device DisConnected;
+                    break;
+                case KinectStatus.Initializing:
                     break;
             }
         }
