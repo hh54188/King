@@ -35,7 +35,7 @@
         <TextBlock Grid.Row="5" Grid.Column="0" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Skeleton Stream" VerticalAlignment="Top"/>
         <CheckBox Grid.Row="5" Grid.Column="1" IsEnabled="False" Content="CheckBox" HorizontalAlignment="Left" VerticalAlignment="Top" IsChecked="{Binding IsSkeletonStreamEnabled}"/>
 
-        <TextBlock Grid.Row="6" Grid.Column="0" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Status" VerticalAlignment="Top"/>
+        <TextBlock Grid.Row="6" Grid.Column="0" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Angle" VerticalAlignment="Top"/>
         <TextBlock Grid.Row="6" Grid.Column="1" HorizontalAlignment="Left" TextWrapping="Wrap" Text="{Binding SensorAngle}" VerticalAlignment="Top"/>
         
         <Button Grid.Row="7" Grid.Column="0" IsEnabled="{Binding CanStart}" Content="START" HorizontalAlignment="Center" VerticalAlignment="Top" Width="75" Name="BUTTON_SENSOR_START"/>
