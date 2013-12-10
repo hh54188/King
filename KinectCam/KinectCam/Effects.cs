@@ -5,7 +5,7 @@ using System.Text;
 
 namespace KinectCam
 {
-    class enum Effects
+    public enum Effects
     {
         None,
         Red,

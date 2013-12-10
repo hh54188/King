@@ -4,5 +4,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         
+        <Image Name="VideoControl" Height="330" Grid.ColumnSpan="3"></Image>
+        <ComboBox Name="ColorImageFormatSelection" ItemsSource="{Binding ColorImage}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" />
     </Grid>
 </Window>
