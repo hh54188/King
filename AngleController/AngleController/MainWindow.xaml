@@ -5,6 +5,7 @@
     <Grid>
         <Slider Name="AngleController" Minimum="-27" Maximum="27" HorizontalAlignment="Left" VerticalAlignment="Top" Width="231" Margin="142,74,0,0" SmallChange="1" Interval="1000"/>
         <Label Name="AngleLabel" Content="Label" HorizontalAlignment="Left" Margin="231,183,0,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button Name="TButton" Content="TEST" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="21,167,0,0" FontSize="14"/>
 
     </Grid>
 </Window>

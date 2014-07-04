@@ -53,6 +53,13 @@ namespace AngleController
             this.AngleController.ValueChanged += AngleController_ValueChanged;
 
             this.AngleLabel.Content = this.sensor.ElevationAngle;
+
+            this.TButton.Click += TButton_Click;
+        }
+
+        void TButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.SetSensorAngle(this.sensor.ElevationAngle + 2);
         }
 
         void AngleController_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
