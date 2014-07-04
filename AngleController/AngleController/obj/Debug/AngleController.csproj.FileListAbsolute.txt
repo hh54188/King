@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\King\AngleController\AngleController\bin\Debug\AngleController.exe
+C:\Users\Dell\Desktop\King\AngleController\AngleController\bin\Debug\AngleController.pdb
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\AngleController.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\AngleController_MarkupCompile.cache
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\AngleController.g.resources
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\AngleController.Properties.Resources.resources
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\AngleController.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\AngleController.exe
+C:\Users\Dell\Desktop\King\AngleController\AngleController\obj\Debug\AngleController.pdb

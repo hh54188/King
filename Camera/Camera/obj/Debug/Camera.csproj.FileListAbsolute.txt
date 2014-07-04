@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\King\Camera\Camera\bin\Debug\Camera.exe
+C:\Users\Dell\Desktop\King\Camera\Camera\bin\Debug\Camera.pdb
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\Camera_MarkupCompile.cache
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\Camera.g.resources
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\Camera.Properties.Resources.resources
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\Camera.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\Camera.exe
+C:\Users\Dell\Desktop\King\Camera\Camera\obj\Debug\Camera.pdb

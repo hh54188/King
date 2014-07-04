@@ -1,0 +1,9 @@
+﻿<Window x:Class="Camera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="430.511" Width="671.486">
+    <Grid Width="640" Height="482">
+        <Image Name="VideoControl" Stretch="Fill" HorizontalAlignment="Left" Height="484" Margin="0,-2,0,0" VerticalAlignment="Top" Width="640"/>
+
+    </Grid>
+</Window>

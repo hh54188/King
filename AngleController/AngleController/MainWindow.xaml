@@ -1,0 +1,10 @@
+﻿<Window x:Class="AngleController.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Slider Name="AngleController" Minimum="-27" Maximum="27" HorizontalAlignment="Left" VerticalAlignment="Top" Width="231" Margin="142,74,0,0" SmallChange="1" Interval="1000"/>
+        <Label Name="AngleLabel" Content="Label" HorizontalAlignment="Left" Margin="231,183,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+    </Grid>
+</Window>
