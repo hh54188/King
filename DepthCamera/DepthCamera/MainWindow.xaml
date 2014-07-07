@@ -1,0 +1,11 @@
+﻿<Window x:Class="DepthCamera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="537.478" Width="842.022">
+    <Grid>
+        <Image Name="DepthController" Stretch="Fill" HorizontalAlignment="Left" Height="480" VerticalAlignment="Top" Width="640"/>
+        <CheckBox Name="NearMode" Content="Near Mode" HorizontalAlignment="Left" Margin="692,50,0,0" VerticalAlignment="Top" FontSize="16" Height="19" Width="108"/>
+        <Label Name="TEST" Content="Label" HorizontalAlignment="Left" Margin="692,107,0,0" VerticalAlignment="Top" Height="31" Width="94" FontSize="18"/>
+
+    </Grid>
+</Window>

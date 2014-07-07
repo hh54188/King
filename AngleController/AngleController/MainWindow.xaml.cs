@@ -26,6 +26,25 @@ namespace AngleController
             InitializeComponent();
             this.Loaded += MainWindow_Loaded;
             this.Closing += MainWindow_Closing;
+
+            this.Increase.Click += Increase_Click;
+            this.Decrease.Click += Decrease_Click;
+            this.Reset.Click += Reset_Click;
+        }
+
+        void Reset_Click(object sender, RoutedEventArgs e)
+        {
+            this.SetSensorAngle(0);
+        }
+
+        void Decrease_Click(object sender, RoutedEventArgs e)
+        {
+            this.SetSensorAngle(this.sensor.ElevationAngle - 1);
+        }
+
+        void Increase_Click(object sender, RoutedEventArgs e)
+        {
+            this.SetSensorAngle(this.sensor.ElevationAngle + 1);
         }
 
         void MainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
@@ -47,31 +66,11 @@ namespace AngleController
                 }
             }
 
-            this.AngleController.Minimum = this.sensor.MinElevationAngle;
-            this.AngleController.Maximum = this.sensor.MaxElevationAngle;
-            this.AngleController.Value = this.sensor.ElevationAngle;
-            this.AngleController.ValueChanged += AngleController_ValueChanged;
-
             this.AngleLabel.Content = this.sensor.ElevationAngle;
-
-            this.TButton.Click += TButton_Click;
-        }
-
-        void TButton_Click(object sender, RoutedEventArgs e)
-        {
-            this.SetSensorAngle(this.sensor.ElevationAngle + 2);
-        }
-
-        void AngleController_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
-        {
-            this.SetSensorAngle(Convert.ToInt32(e.NewValue));
         }
 
         private void SetSensorAngle(int angleValue)
         {
-            //this.AngleLabel.Content = angleValue;
-            //return;
-
             if (angleValue > this.sensor.MinElevationAngle && angleValue < this.sensor.MaxElevationAngle)
             {
                 this.sensor.ElevationAngle = angleValue;

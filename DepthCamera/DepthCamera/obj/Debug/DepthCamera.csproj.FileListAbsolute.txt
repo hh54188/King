@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\DepthCamera.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\DepthCamera_MarkupCompile.cache
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\DepthCamera.g.resources
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\DepthCamera.Properties.Resources.resources
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\DepthCamera.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\bin\Debug\DepthCamera.exe
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\bin\Debug\DepthCamera.pdb
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\DepthCamera.exe
+C:\Users\Dell\Desktop\King\DepthCamera\DepthCamera\obj\Debug\DepthCamera.pdb

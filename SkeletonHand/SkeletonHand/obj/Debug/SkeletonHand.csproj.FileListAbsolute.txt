@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\bin\Debug\SkeletonHand.exe
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\bin\Debug\SkeletonHand.pdb
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\SkeletonHand.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\SkeletonHand_MarkupCompile.cache
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\SkeletonHand.g.resources
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\SkeletonHand.Properties.Resources.resources
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\SkeletonHand.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\SkeletonHand.exe
+C:\Users\Dell\Desktop\King\SkeletonHand\SkeletonHand\obj\Debug\SkeletonHand.pdb
