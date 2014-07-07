@@ -59,7 +59,7 @@ namespace DepthCamera
             if (this.sensor != null && !this.sensor.DepthStream.IsEnabled)
             {
                 this.sensor.DepthStream.Enable();
-                //this.sensor.DepthFrameReady += sensor_DepthFrameReady;
+                this.sensor.DepthFrameReady += sensor_DepthFrameReady;
             }
 
             if (this.sensor != null && !this.sensor.IsRunning)

@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\bin\Debug\SkeletonOnDepthCamera.exe
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\bin\Debug\SkeletonOnDepthCamera.pdb
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\SkeletonOnDepthCamera_MarkupCompile.cache
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\SkeletonOnDepthCamera.g.resources
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\SkeletonOnDepthCamera.Properties.Resources.resources
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\SkeletonOnDepthCamera.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\SkeletonOnDepthCamera.exe
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\SkeletonOnDepthCamera.pdb
+C:\Users\Dell\Desktop\King\SkeletonOnDepthCamera\SkeletonOnDepthCamera\obj\Debug\SkeletonOnDepthCamera.csprojResolveAssemblyReference.cache
