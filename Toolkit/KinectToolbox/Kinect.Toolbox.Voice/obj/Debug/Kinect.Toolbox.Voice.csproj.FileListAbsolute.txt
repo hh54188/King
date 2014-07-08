@@ -1,0 +1,5 @@
+C:\Users\Dell\Desktop\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\Dell\Desktop\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\bin\Debug\Kinect.Toolbox.Voice.pdb
+C:\Users\Dell\Desktop\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.dll
+C:\Users\Dell\Desktop\KinectToolbox\KinectToolbox\Kinect.Toolbox.Voice\obj\Debug\Kinect.Toolbox.Voice.pdb
